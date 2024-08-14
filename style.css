@@ -1,0 +1,91 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  overflow-x: hidden; 
+  overflow-y: scroll;
+  padding: 0 ;
+}
+
+
+
+.section1{
+  color: aliceblue;
+  background-color: rgb(59, 66, 163);
+  background-image: url(/images/shadow-img1.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px 40px;
+  
+}
+
+.carousel-indicators{
+  bottom: 0;
+  width: 125%;
+  margin-bottom: right;
+}
+
+.carousel-inner{
+  border: rounded solid;
+  border-radius: 30px;
+  width: 90%;
+}
+.carousel-control-prev{
+
+  position: absolute;
+  top: 50%;
+  left: -25px;
+  transform: translateY(-50%);
+}
+
+.carousel-control-next{
+  position: absolute;
+  top: 50%;
+  right: 35px;
+  transform: translateY(-50%);
+}
+
+
+.section2{
+  padding: 30px 40px;
+}
+
+.section2-row-image1{
+  width: 50%;
+  float: left;
+}
+
+.section2-row-image1-text h4,p{
+  display: flex;
+  font-size: 11px;
+}
+
+.section2-row-image2{
+  width: 50%;
+  float: left;
+}
+
+.section2-row-image2-text h4,p{
+  display: flex;
+  font-size: 11px;
+  
+}
+
+.section2-row-image3{
+  width: 50%;
+  float: left;
+}
+
+.section2-row-image3-text h4,p{
+  display: flex;
+  font-size: 11px;
+}
+
+.section3{
+  padding: 30px 40px;
+}
+

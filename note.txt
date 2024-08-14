@@ -1,0 +1,28 @@
+ <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+              <div class="section2-row-image1">
+                <img src="/images/section2-icon1.webp" alt="service1">
+                <div class="section2-row-image1-text">
+                  <p><h4>Financial Strategy and Planning:</h4>We develop customized financial strategies that align with your business objectives.</p>
+                </div>
+                
+              <div class="section2-row-image2">
+                <img src="/images/section2-icon2.webp" alt="service1">
+                <div class="section2-row-image2-text">
+                    <p> <h4>Budgeting and Forecasting:</h4> Our experts create accurate budgets and forecasts, providing you with a clear financial roadmap to guide.</p>
+                </div>
+              </div>
+
+              <div class="section2-row-image3">
+                <img src="/images/section2-icon3.webp" alt="service1">
+                <div class="section2-row-image3-text">
+                  <p><h4>Financial Reporting and Analysis:</h4>We prepare comprehensive financial reports and analyses, offering valuable insights.</p>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="col-lg-6 col-md-6  col-sm-12 col-12">
+              <div class="section2-row-image4">
+                <img src="/images/section2-graph.png" alt="graph">
+              </div>
+            </div> -->
+          
+          </div>
